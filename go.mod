@@ -1,6 +1,6 @@
 module github.com/EdgarOrtegaRamirez/liveserve
 
-go 1.24.0
+go 1.25
 
 require (
 	github.com/fsnotify/fsnotify v1.10.1
